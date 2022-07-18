@@ -162,7 +162,9 @@ public class ResourceCentreTest {
 		cb2 = null;
 		camcorderList = null;
 		chromebookList = null;
+		System.out.println("Hi");
 
 	}
+	
 
 }
